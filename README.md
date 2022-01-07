@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+  - <https://github.com/janstarke/pbc4rust>
+  - <https://github.com/janstarke/evtx2bodyfile>
+
+- 🌱 I’m currently learning ...
+  - The Rust programming language
+  - the mathematics behind paring based cryptography
+
+- 💬 Ask me about ...
+  - Software technology (especially coding)
+  - Digital forensics
+
 <!--
 **janstarke/janstarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
