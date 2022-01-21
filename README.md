@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...
   - <https://github.com/janstarke/pbc4rust>
   - <https://github.com/janstarke/evtx2bodyfile>
-  - <https://github.com/janstarke/evtxview>
+  - <https://github.com/janstarke/regview>
 
 - 🌱 I’m currently learning ...
   - The Rust programming language
