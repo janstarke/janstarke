@@ -13,7 +13,7 @@
   - Software technology (especially coding)
   - Digital forensics
 
-Visit me at <https://janstarke.github.io/tools>
+Visit me at <https://janstarke.github.io/pages/tools>
 
 <!--
 **janstarke/janstarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
